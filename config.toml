@@ -1,0 +1,15 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Doc Gene & Co"
+theme = "ananke"
+publishDir = "docs"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com"
