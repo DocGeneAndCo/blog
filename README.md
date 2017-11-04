@@ -11,6 +11,7 @@ TODO
 
 ## Write article with orgmode ##
 
+see: http://www.holgerschurig.de/en/emacs-blog-from-org-to-hugo/
 TODO
 
 ## Publish website ##
