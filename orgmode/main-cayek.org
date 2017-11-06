@@ -1,11 +1,24 @@
----
-title: "Org-mode"
-date: 2017-11-03T17:02:40+01:00
-draft: true
----
+# -*- coding: utf-8 -*-
+# -*- mode: org -*-
 
-* Python
+#+TITLE: Cayek's Articles
+#+AUTHOR: Kévin CAYE
+#+LANGUAGE: en
+#+STARTUP: overview indent inlineimages logdrawer
+#+PROPERTY: header-args :exports none :eval no-export
 
+* Org-mode example
+  :PROPERTIES:
+  :TITLE:    Org-mode example
+  :HUGO_TAGS: test
+  :HUGO_TOPICS: test
+  :HUGO_FILE: post/orgmode-example.md
+  :HUGO_DATE: [2017-11-05 Dim 18:23]
+  :END:
+
+Here you can find an feature available when using org-mode to write blog article.
+
+** Python
   With use here [[https://github.com/gregsexton/ob-ipython][gregsexton/ob-ipython]] emacs package.
 
  #+begin_src ipython :session :exports both :async t :results raw drawer 
@@ -32,10 +45,10 @@ draft: true
 import numpy as np
 #+end_src
 
-
-
-* R
+** R
 
 #+begin_src R :results output :exports both
   library(ggplot2)
 #+end_src
+
+
