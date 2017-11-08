@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Doc Gene & Co"
 theme = "ananke"
 publishDir = "docs"
+canonifyURLs = true
+uglyurls = true # to easily handle image with orgmode TODO see how blogdown do 
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
