@@ -38,3 +38,16 @@ An example of blog article with orgmode is in the file ./orgmode/main-cayek.org.
 
 To render the example, used M-x : hugo.
 
+# TODO #
+
+## Name of the blog ##
+
+....
+
+## syntax highlight ##
+
+sever side:  https://gohugo.io/content-management/syntax-highlighting/#highlight-js-example
+
+client side: highlight.js
+
+## Theme ##

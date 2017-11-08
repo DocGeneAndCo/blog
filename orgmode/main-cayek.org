@@ -16,7 +16,7 @@
 :HUGO_DATE: [2017-11-05 Dim 18:23]
 :END:
 
-Here you can find features available when using org-mode to write blog article.
+Here you can find the features available when using org-mode to write blog article.
 
 ** Python
 We use the package [[https://github.com/gregsexton/ob-ipython][gregsexton/ob-ipython]] emacs package.

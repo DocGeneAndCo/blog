@@ -8,7 +8,7 @@ topics = [ "test" ]
   - [Python](#sec-1)
   - [R](#sec-2)
 
-Here you can find an feature available when using org-mode to write blog article.
+Here you can find the features available when using org-mode to write blog article.
 
 # Python<a id="sec-1"></a>
 

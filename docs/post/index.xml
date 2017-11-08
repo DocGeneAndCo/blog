@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Doc Gene &amp; Co</title>
-    <link>https://docgeneandco.github.io/blog/post/</link>
+    <link>https://docgeneandco.github.io/blog/post.html</link>
     <description>Recent content in Articles on Doc Gene &amp; Co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,6 +10,17 @@
     
 	<atom:link href="https://docgeneandco.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Org-mode example</title>
+      <link>https://docgeneandco.github.io/blog/post/orgmode-example.html</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://docgeneandco.github.io/blog/post/orgmode-example.html</guid>
+      <description>  Python  R   Here you can find the features available when using org-mode to write blog article.
+Python We use the package gregsexton/ob-ipython emacs package.
+%matplotlib inline import matplotlib.pyplot as plt import numpy as npdef foo(x): return x + 9 [foo(x) + 7 for x in range(7)] [16, 17, 18, 19, 20, 21, 22]  plt.hist(np.random.randn(20000), bins=200) R hist(x = rnorm(100)) </description>
+    </item>
     
   </channel>
 </rss>
